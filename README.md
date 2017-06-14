@@ -1,2 +1,3 @@
 # Location_Trilateration
-Deriving exact location from cell towers signal's strength
+
+A simple trilateration algorithm for deriving precised location from cell-towers signal's strength
